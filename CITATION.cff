@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "This repository contains the data, code, and supplementary materials for replicating the results of our:
+"Too Hot, Too Wet: Bayesian Spatial Modelling of Climate-Driven Salmonella Risk in New South Wales, Australia, 1991–2022."
+If you use this repository, please cite it as follows.
+title: "Salmonella-data-repo: Salmonella Risk in New South Wales"
+type: dataset and R code
+version: "1.0.0"
+date-released: 2025-03-01
+authors: Oyelola A. Adegboye¹*†, and  Mohammad Afzal Khan³†
+affiliation: 
+¹ Menzies School of Health Research, Darwin, Charles Darwin University, NT, Australia  
+² Faculty of Information Technology, Monash University, Melbourne, Australia  
+repository-code: "https://github.com/oyeadegboye/Salmonella-data-repo"
+url: "https://github.com/oyeadegboye/Salmonella-data-repo"
+license: "MIT"   # or whatever license you actually use
+keywords:
+  - Salmonella
+  - bacteraemia
+  - Queensland
+  - epidemiology
+† Equal contribution  
+\* Corresponding author: Oyelola Adegboye, Menzies School of Health Research, Darwin, Charles Darwin University, NT, Australia
+
